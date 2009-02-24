@@ -1,3 +1,4 @@
 category: X11
+requires: font-misc-misc
 sdesc: "X.Org font aliases"
 ldesc: "X.Org font aliases"
