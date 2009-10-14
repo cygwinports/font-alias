@@ -1,4 +1,4 @@
 category: X11
-requires: font-misc-misc
+requires: font-misc-misc fontconfig mkfontdir mkfontscale
 sdesc: "X.Org font aliases"
 ldesc: "X.Org font aliases"
